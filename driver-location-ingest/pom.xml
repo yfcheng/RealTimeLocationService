@@ -10,7 +10,7 @@
 
 	<parent>
 	<groupId>org.demo</groupId>
-	<artifactId>driver-location-service</artifactId>
+	<artifactId>RealTimeLocationService</artifactId>
 	<version>1.0.0.BUILD-SNAPSHOT</version>
 	</parent>
 
