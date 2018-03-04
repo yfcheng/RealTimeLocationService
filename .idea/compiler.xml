@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dashboard" />
+        <module name="driver-location-ingest" />
+        <module name="driver-location-service" />
+        <module name="driver-location-simulator" />
+        <module name="driver-location-updater" />
+        <module name="service-location-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dashboard" target="1.8" />
+      <module name="driver-location-ingest" target="1.8" />
+      <module name="driver-location-service" target="1.8" />
+      <module name="driver-location-simulator" target="1.8" />
+      <module name="driver-location-updater" target="1.8" />
+      <module name="RealTimeLocationService" target="1.8" />
+      <module name="service-location-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

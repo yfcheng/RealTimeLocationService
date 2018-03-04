@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RealTimeLocationService.iml" filepath="$PROJECT_DIR$/RealTimeLocationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-location-ingest/driver-location-ingest.iml" filepath="$PROJECT_DIR$/driver-location-ingest/driver-location-ingest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-location-service/driver-location-service.iml" filepath="$PROJECT_DIR$/driver-location-service/driver-location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-location-simulator/driver-location-simulator.iml" filepath="$PROJECT_DIR$/driver-location-simulator/driver-location-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-location-updater/driver-location-updater.iml" filepath="$PROJECT_DIR$/driver-location-updater/driver-location-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-location-service/service-location-service.iml" filepath="$PROJECT_DIR$/service-location-service/service-location-service.iml" />
+    </modules>
+  </component>
+</project>
