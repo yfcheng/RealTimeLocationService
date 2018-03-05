@@ -1,5 +1,8 @@
-# vehicle-tracking-system
+# RealTimeLocationService
 Monitor and track vehicle information
+
+First install all service packages.  
+./mvn clean install
 
 ##Service Start Sequence
 1. docker-compose up
